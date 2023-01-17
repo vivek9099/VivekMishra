@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vivek9099/vivek9099/blob/main/universe-1566161_1920.jpg...)](https://vivek9099.io)
+[![MasterHead]("https://github.com/vivek9099/vivek9099/blob/main/universe-1566161_1920.jpg...")](https://vivek9099.io)
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 
