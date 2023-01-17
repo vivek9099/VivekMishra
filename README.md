@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/vivek9099/vivek9099/blob/main/universe-1566161_1920.jpg...)](https://vivek9099.io)
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -5,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivekmishra2535" target="blank"><img src="https://img.shields.io/twitter/follow/vivekmishra2535?logo=twitter&style=for-the-badge" alt="vivekmishra2535" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React **
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java ,Cloud Services ,ERP(JD EDWARDS),Springboot,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mishravivek2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mishravivek2/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15819522/vivek-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15819522/vivek-mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/mishraa2535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishraa2535" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vivek9099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek9099/" height="30" width="40" /></a>
+<a href="https://leetcode.com/vivek9099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vivek9099/" height="30" width="40" /></a>
 <a href="https://discord.gg/mishra2535#6335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mishra2535#6335" height="30" width="40" /></a>
 </p>
 
