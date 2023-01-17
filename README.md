@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vivek9099/vivek9099/blob/main/universe-1566161_1920.jpg)]
+[MasterHead](https://github.com/vivek9099/vivek9099/blob/main/universe-1566161_1920.jpg)
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding " width="400" src="https://media.tenor.com/2gfRHLv6GZ8AAAAS/code-coding.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vivekmishra2535" target="blank"><img src="https://img.shields.io/twitter/follow/@vivekmishra2535?logo=twitter&style=for-the-badge" alt="@vivekmishra2535" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React **
 
 - 💬 Ask me about **Java,Cloud Services,Springboot,MySQL**
 
