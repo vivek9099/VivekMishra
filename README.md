@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.7RcR5X1__ZMxRcM-OvZrswHaEK?pid=ImgDet&rs=1)]
+[![MasterHead](https://www.pexels.com/photo/person-in-gray-shirt-holding-a-small-paper-with-texts-11035547/)]
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding " width="400" src="https://media.tenor.com/2gfRHLv6GZ8AAAAS/code-coding.gif">
